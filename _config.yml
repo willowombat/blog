@@ -16,6 +16,9 @@ email: no@no.com
 # linkedIn_username:
 # dribbble_username:
 
+category_dir: category
+tag_dir: tag
+
 description_footer: Willowombat's corner of the internet.
 
 # comments — sign up at disqus.com to get your own shortname
