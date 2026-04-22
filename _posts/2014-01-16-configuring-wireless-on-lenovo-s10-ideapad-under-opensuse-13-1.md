@@ -5,6 +5,7 @@ date: 2014-01-16 17:55
 author: woh3
 comments: true
 categories: [Life, Linux, Opensuse, Security, Software Review]
+tags: technology art life math linux
 ---
 So, some of you still have Lenovo S10 Ideapads, and with the new release of Opensuse 13.1, some of you found out wireless doesn't work straight out of box, well, never fear, the solution couldn't be simpler. It turns out that Opensuse 13.1 is already preconfigured to work with your wireless, except for the one tiny detail of chipset firmware. The Lenovo S10 Ideapads use the&nbsp;Broadcom Corporation BCM4312 chipset, and all you have to do it download and install the firmware for that chipset, put it in the right folder, and then either restart your computer, or load the modules with modprobe, and your wireless should be working. The wonderful people at Opensuse already created a PRE_INSTALLED script to locate, download and put the firmware in the correct directory for you already, just run the script (command)
 

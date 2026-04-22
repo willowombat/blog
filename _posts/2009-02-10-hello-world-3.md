@@ -5,5 +5,6 @@ date: 2009-02-10 18:38
 author: woh3
 comments: true
 categories: [Uncategorized]
+tags: art
 ---
 Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!

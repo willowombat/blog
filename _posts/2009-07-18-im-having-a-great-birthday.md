@@ -5,6 +5,7 @@ date: 2009-07-18 16:19
 author: woh3
 comments: true
 categories: [Life]
+tags: life art math
 ---
 Today has been great! Best 38th birthday ever. First I went to sushi at yama with 5 friends from work. Then my friends wished me happy birthday and the sushi chefs heard it, and so they made me a special sushi plate and prepped up a Saki-Bomb fro us all to drink, and then everyone in the sushi bar joined together to sing happy birthday to me, it was awesome! here is the pic of the sushi bomb before they tipped it...
 [caption id="attachment_276" align="aligncenter" width="300" caption="the Saki-Bomb for my birthday"]<img src="http://www.woh3.com/wp-content/uploads/2009/07/IMG00051-300x240.jpg" alt="the Saki-Bomb for my birthday" title="IMG00051" width="300" height="240" class="size-medium wp-image-276" />[/caption]

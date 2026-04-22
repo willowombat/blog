@@ -5,6 +5,7 @@ date: 2011-07-31 04:58
 author: woh3
 comments: true
 categories: [Life]
+tags: vegan gaming life lego
 ---
 If you loved playing with Lego's as a kid, you will love <a href="http://www.minecraft.net">Minecraft</a>.
 

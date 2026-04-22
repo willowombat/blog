@@ -3,6 +3,7 @@ layout: post
 title:  "Killing Time"
 date:   2021-06-06 16:48:44 -0800
 categories: Life
+tags: life
 ---
 
 

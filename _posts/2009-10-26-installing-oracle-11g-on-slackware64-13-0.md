@@ -5,6 +5,7 @@ date: 2009-10-26 20:45
 author: woh3
 comments: true
 categories: [Life]
+tags: technology linux life
 ---
 Yes! It is in fact possible!
 first you need to follow the exact instructions on this page <a href="http://www.vislab.uq.edu.au/ag3/slackware/howto/oracle.html">Oracle on slackware</a> , then follow EVERY single instruction on this page <a>Oracle</a> and you will get this happy screen

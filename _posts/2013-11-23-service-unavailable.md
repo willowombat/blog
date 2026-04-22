@@ -5,6 +5,7 @@ date: 2013-11-23 08:14
 author: woh3
 comments: true
 categories: [Life]
+tags: math life lego
 ---
 <a href="http://shop.lego.com/en-US/VIP/vipLogin.jsp?CMP=EMC-VIP2013BFEAY_NovUS&amp;HQS=%20Rescue_VIPAcct_CTA_EN&amp;RRID=105716673&amp;RMID=VIP_2013_11_BFCM_EA_PR_US">Service unavailable!</a>.
 

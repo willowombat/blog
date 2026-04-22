@@ -3,6 +3,7 @@ layout: post
 title:  "First Rated Tournament of the New Year"
 date:   2021-01-02 09:30:44 -0800
 categories: chess
+tags: chess gaming art
 ---
 **I was fairly dissappointed in my performance for this tournament**<br><br>
 **Game 1.**<br>

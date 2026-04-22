@@ -5,6 +5,7 @@ date: 2012-07-13 07:16
 author: woh3
 comments: true
 categories: [Hawai'i, Life, Monorail, Oahu, Oahu Monorail, Work]
+tags: art hawaii life math nature
 ---
 Lately I have been working on the Kawailoa wind Farm Project. Seeing the progress of the project makes me proud to be a part of it. The smartest societies have found ways to make wise use of their blessings, and the Trade Winds have blessed Hawai'i for centuries. Here is a view from one of the Wind Farm Hills, near Haleiwa.
 [caption id="attachment_726" align="alignleft" width="300"]<a href="http://woh3blog.files.wordpress.com/2012/07/view.jpg"><img src="http://woh3blog.files.wordpress.com/2012/07/view.jpg?w=300" alt="" title="view" width="300" height="240" class="size-medium wp-image-726" /></a> View of the Sea from the Kawailoa Wind Farm[/caption]

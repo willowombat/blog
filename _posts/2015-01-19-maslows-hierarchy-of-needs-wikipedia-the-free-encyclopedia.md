@@ -5,6 +5,7 @@ date: 2015-01-19 07:34
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 I remember learning about this in college, and it totally changed my perspective on everything. It is the ultimate reason why you cannot give a human being the same things you would give a cow or a dog, and expect them to flourish. 
 It also does not surprise me that so many Conservatives have never heard of this basic truth. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Happy Valentine's Day"
 date:   2022-02-13 16:48:44 -0800
 categories: Life
+tags: chess gaming life
 ---
 Project Zomboid:
 I am having a lot of fun with this game. Having a little trouble getting used to using the controller

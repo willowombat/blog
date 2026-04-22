@@ -5,6 +5,7 @@ date: 2012-09-04 03:22
 author: woh3
 comments: true
 categories: [Life]
+tags: art chess gaming life math nature
 ---
 I know there has been a strong attempt in the media and on the part of Mitt Romney's campaign to minimize the effect of his religion on his election and on his possible future role as President of the United States, and this is somewhat understandable since there have been serious concerns  about electing a Catholic as President in an earlier election. I know that in most cases a man's religion is his own business, and attacking him on his religion is downright un-American. Despite this fact,  I would like to voice a concern I have about this, in that I feel electing a Mormon as President does not have the same concerns as electing, say, a Catholic President. Some of the most important and germinal ceremonies of the Mormon Church, I feel, would directly conflict with a person's role and obligations as a President. Here's why...
 

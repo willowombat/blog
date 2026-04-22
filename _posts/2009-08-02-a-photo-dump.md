@@ -5,6 +5,7 @@ date: 2009-08-02 01:22
 author: woh3
 comments: true
 categories: [Life]
+tags: life math
 ---
 here are some crazy pictures...
 [caption id="attachment_283" align="aligncenter" width="300" caption="adam with a crazy face made of duct tape"]<img src="http://www.woh3.com/wp-content/uploads/2009/08/adam-crazy-300x240.jpg" alt="adam with a crazy face made of duct tape" title="adam-crazy" width="300" height="240" class="size-medium wp-image-283" />[/caption]

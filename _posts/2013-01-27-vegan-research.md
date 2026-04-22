@@ -5,6 +5,7 @@ date: 2013-01-27 16:46
 author: woh3
 comments: true
 categories: [Life, Personal]
+tags: vegan life art math
 ---
 I have researched a Vegan diet lately and found some interesting things. I was vegetarian for many years, and I regarded the times I ran into Vegans as unfortunate. Vegans, in general seemed crazy to me, but then most people treated me like I was crazy for being vegetarian. It has long been an fact that the only thing wrong with a vegetarian diet is the way other people act towards you. People often times would challenge me to explain my choice, sometimes actually getting angry at the idea, and then asking me crazy questions like "didn't I know God wants us to eat meat?", and that it was "Our right as masters of the world" etc. You generally don't get invited to barbecues. People respond to vegetarians pretty badly, and that's how I viewed Vegans. 
 I recently watched the Vegan documentary "<a href="http://www.imdb.com/title/tt1814930/">Vegucated</a>" and another one called "<a href="http://www.vegansociety.com/resources/making-the-connection.aspx">Making the Connection</a>" which were both  good and informative. 

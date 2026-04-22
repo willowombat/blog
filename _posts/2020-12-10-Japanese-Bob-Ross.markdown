@@ -3,6 +3,7 @@ layout: post
 title:  "Japanese Bob Ross"
 date:   2020-12-10 08:48:44 -0800
 categories: cool
+tags: math
 ---
 
 I found out about this guy from Reddit. I love this guy. A worthy succesor to Bob Ross.

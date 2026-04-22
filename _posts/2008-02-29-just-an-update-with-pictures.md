@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Just an Update---with PICTURES!
+title: Just an Update
+tags: vegan life art math
+---with PICTURES!
 date: 2008-02-29 04:39
 author: woh3
 comments: true

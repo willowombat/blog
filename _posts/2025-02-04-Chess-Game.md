@@ -3,6 +3,7 @@ layout: post
 title:  "Chess Game"
 date:   2025-02-04 16:30:44 -0800
 categories: chess
+tags: chess gaming math
 ---
 
 **I was pleased with this game, I was Black and played the King's Indian, I guess he forgot about the sniping Bishop**

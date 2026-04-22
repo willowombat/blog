@@ -5,6 +5,7 @@ date: 2009-06-28 20:57
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 -----BEGIN GEEK CODE BLOCK-----
   Version: 3.1

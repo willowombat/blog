@@ -3,6 +3,7 @@ layout: post
 title:  "Pokemon GO 2"
 date:   2020-12-13 16:48:44 -0800
 categories: image
+tags: pokemon math
 ---
 
 Another trophy from my Visalia trip. 

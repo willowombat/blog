@@ -5,6 +5,7 @@ date: 2013-03-28 17:53
 author: woh3
 comments: true
 categories: [Fun, Life, Linux, Personal, Privacy, Security, Security, Slackware, Software Review, Ubuntu]
+tags: art life math linux books
 ---
 Over the years I have heard many horror stories about people getting notices from their IP service provider about being nailed for downloading "Tracked" torrents etc. One of the first steps in making sure this does not happen is shop around for IP Service providers, some of them respect your privacy much more than others. I once got a letter from my ISP complaining about my use of Bittorrent when I was using it to download Linux OS iso's, a perfectly legitimate use, but they regarded <strong>any</strong> use of Bittorrent to be <strong>infringement</strong>. I dropped them and went with a lesser known, slightly more pricey, but much more discrete service provider.
 

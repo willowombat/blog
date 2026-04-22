@@ -3,6 +3,7 @@ layout: post
 title:  "More Fractals"
 date:   2021-02-21 16:48:44 -0800
 categories: Math
+tags: fractal art math
 ---
 Here are a few more fractal experiments. The first is called the Man-o'war fractal:<br><br clear="all">
 <img src="{{ site.baseurl }}/images/man-o-war.png" width="900" height="600" alt=""><br clear="all"><br clear="all">

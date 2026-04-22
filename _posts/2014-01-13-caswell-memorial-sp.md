@@ -5,6 +5,7 @@ date: 2014-01-13 20:28
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 Going Bird-watching here this weekend.
 

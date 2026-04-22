@@ -5,6 +5,7 @@ date: 2010-06-21 04:15
 author: woh3
 comments: true
 categories: [Life]
+tags: technology books life math
 ---
 Well, Here I am. It seems there was a little slicing and dicing involved, lost a few posts and a few pictures, but all that will be fixed gradually. To prove that this is now my current and legit blog I will post my graduation photo:
 

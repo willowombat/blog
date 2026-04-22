@@ -5,6 +5,7 @@ date: 2009-01-06 21:48
 author: woh3
 comments: true
 categories: [Software Review, Uncategorized]
+tags: books life linux math
 ---
 Having been a staunch Linux user for nearly 8 years now, one of my most used programs was the Firefox webbrowser, when it first came out it was amazing. It was fast, simple, clean, and they had stripped out the email client and html editor so it was lean as well. However with the recent arrival of Firefox 3, it has become obvious that Firefox is now bloatware, it's getting slower and its becoming more of a pig on system resources than it has ever been. Enter <a href="http://www.opera.com">Opera</a> webbrowser. I tried <a href="http://www.opera.com">Opera</a> a few years ago and was not impressed, but they have come a long way since then. i recently tried Opera 9 (10 will be coming out soon) and I was blown away, it's like how Firefox was in the old days. <a href="http://www.opera.com">Opera</a> is clean, simple and fast, with many neat features, let me tell you about some of them;
 <ol>

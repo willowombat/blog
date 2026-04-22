@@ -5,6 +5,7 @@ date: 2015-08-16 12:47
 author: woh3
 comments: true
 categories: [Debian, FreeBSD, Fun, Life, Software Review]
+tags: art chess gaming life linux books
 ---
 For the past year or so, I have been addicted to the online game <a href="https://apps.facebook.com/cp_backgammon_new/?fb_source=bookmark&amp;ref=bookmarks&amp;count=0&amp;fb_bmpos=_0" target="_blank">Backgammon Live</a> on Facebook, it's fun, the boards are beautiful, and play and features are exciting. Then the people who run the game upgraded the flash requirement to play, and being a Linux user, I was exiled. I tried installing and configuring various other Linux distros like openSUSE (I even tried the official pay version SUSE), Ubuntu, and FreeBSD and PCBSD, but no luck, I could not get flash to work and always ran into this screen on both Firefox and Google Chrome (aka Chromium for Linux)
 <a href="http://woh3.motd.org/wp-content/uploads/2015/08/backgammon-live-on-facebook-iceweasel_002.png"><img src="http://woh3.motd.org/wp-content/uploads/2015/08/backgammon-live-on-facebook-iceweasel_002.png" alt="Backgammon Live on Facebook - Iceweasel_002" width="640" height="499" class="alignnone size-full wp-image-1086" /></a>

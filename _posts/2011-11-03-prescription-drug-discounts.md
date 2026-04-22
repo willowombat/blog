@@ -5,6 +5,7 @@ date: 2011-11-03 22:21
 author: woh3
 comments: true
 categories: [Life]
+tags: life art
 ---
 I just had a pharmacist use a special drug discount card for people who don't have insurance for my partners heart medication and it saved us 50% on a 3 month supply, he said the card can be used by anyone (don't know if it only works at target or not) here is the info:
 UNIVERSAL Rx CARD

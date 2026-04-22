@@ -5,6 +5,7 @@ date: 2012-09-09 14:46
 author: woh3
 comments: true
 categories: [Life]
+tags: gaming linux art life
 ---
 <a href="http://woh3blog.files.wordpress.com/2012/09/anm_minecraft_header.png"><img class="alignnone size-medium wp-image-773" title="anm_minecraft_header" src="http://woh3blog.files.wordpress.com/2012/09/anm_minecraft_header.png?w=300" alt="" width="300" height="108" /></a> with
 

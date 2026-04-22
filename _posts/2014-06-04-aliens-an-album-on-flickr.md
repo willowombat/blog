@@ -5,6 +5,7 @@ date: 2014-06-04 07:13
 author: woh3
 comments: true
 categories: [Blogroll, LEGO's]
+tags: math lego
 ---
 
 As you all know I am a LEGO nerd, and Aliens is one of my all time favorite movies, these pics are just too cool to pass up.

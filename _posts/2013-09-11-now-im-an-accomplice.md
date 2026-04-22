@@ -5,6 +5,7 @@ date: 2013-09-11 18:47
 author: woh3
 comments: true
 categories: [Invasive Species, Jackson's Chameleon, Kalihi, Kamehameha Schools, Life, O'ahu, Science class]
+tags: life linux hawaii math
 ---
 So I was on a job at <a href="http://www.ksbe.edu/pdf/map_oahu.pdf">Kamehameha Schools Campus in Kalihi</a>, here on the island of O'ahu. I was leaving the job, driving down the winding road that leads down from the hill, and in the road in front of me, I see a <a href="https://en.wikipedia.org/wiki/Jackson%27s_chameleon">Jackson's Chameleon </a>crossing the road. <a href="http://woh3blog.files.wordpress.com/2013/07/jacks-chameleon.jpg"><img class="alignleft size-medium wp-image-881" alt="jacks-chameleon" src="http://woh3blog.files.wordpress.com/2013/07/jacks-chameleon.jpg?w=300" width="300" height="225" /></a>
 I stopped, to watch him make his trek across the road, and was contemplating a kidnapping, since I have wanted one for a long time now. They look like the mascot of my favorite linux distribution <a href="http://www.opensuse.org/en/">Opensuse Linux</a>

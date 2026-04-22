@@ -5,6 +5,7 @@ date: 2013-03-11 22:48
 author: woh3
 comments: true
 categories: [Fun, Hawai'i, Life, Oahu, Personal]
+tags: art hawaii philosophy life math
 ---
 Since I have relocated to Hawai'i about two years ago, I have decided to put together some useful information that I wish I had known when I moved here.
 <ol>

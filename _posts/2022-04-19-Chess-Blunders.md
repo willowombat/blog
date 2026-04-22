@@ -3,6 +3,7 @@ layout: post
 title:  "Blunder and Counter-Blunder"
 date:   2022-04-19 06:30:44 -0800
 categories: chess
+tags: chess gaming
 ---
 
 **Technically should have lost this game, but pulled it out at the last minute due to opponent blunders. Oy Vey!**

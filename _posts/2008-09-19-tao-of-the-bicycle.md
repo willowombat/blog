@@ -5,6 +5,7 @@ date: 2008-09-19 03:17
 author: woh3
 comments: true
 categories: [Uncategorized]
+tags: math
 ---
 I got a great deal on a new bike. For seven years I only rode a bike and didn't own a car, I recently found some photos from that time, and I was amazed at the difference between me then and now, so I'm going back to the tao of the bicycle. I'm gonna have to give it thorn resistant lining in the tires, and fix a peddle, other than that it's perfect. Here's a picture...
 

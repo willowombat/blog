@@ -5,6 +5,7 @@ date: 2010-03-28 04:15
 author: woh3
 comments: true
 categories: [Life]
+tags: chess gaming life
 ---
 over the past few months I have been seriously addicted to the game Plants versus Zombies, it is a really great game where you plant defensive plants and they prtect you from an onsluaght of zombies, if you have never played it, you need to to, its the best game  out there right now.
 

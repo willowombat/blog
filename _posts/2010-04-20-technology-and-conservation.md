@@ -5,6 +5,7 @@ date: 2010-04-20 01:58
 author: woh3
 comments: true
 categories: [Life]
+tags: philosophy life math
 ---
 Sometimes people wonder at my ideas on conservation and ecology, and I find that telling a story helps to relate my ideas best.
 There is an apocryphal story in Archeology, that took place about 100 years ago in the Fayum Basin of Egypt.

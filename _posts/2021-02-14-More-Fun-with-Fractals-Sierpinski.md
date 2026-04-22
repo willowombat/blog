@@ -3,6 +3,7 @@ layout: post
 title:  "Fractal-Sierpinski Set"
 date:   2021-02-14 05:55:44 -0800
 categories: Fractal
+tags: fractal art math
 ---
 More fun with Fractals! This one is the Sierpinski Set. When I was an undergrad at Berkeley this one became
 linked in my mind with the middle thirds Cantor Set. <br>

@@ -5,6 +5,7 @@ date: 2015-09-09 00:27
 author: woh3
 comments: true
 categories: [Debian, Linux]
+tags: linux
 ---
 If the postal service isn't lying, then my new mini-computer/tv box should be arriving. The first thing I plan to do is go through the process of installing Debian 8.2.0 Jessie on its bad little self.
 

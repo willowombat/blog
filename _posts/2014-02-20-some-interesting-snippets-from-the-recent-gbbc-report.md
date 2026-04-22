@@ -5,6 +5,7 @@ date: 2014-02-20 09:22
 author: woh3
 comments: true
 categories: [Life]
+tags: life art
 ---
 As some of you know I am a Birder, and took part in the recent 2014 Great Backyard Bird Count. While Data is still coming in, there is some interesting data in the new report, below are some snippets from the news letter that I find interesting...
 

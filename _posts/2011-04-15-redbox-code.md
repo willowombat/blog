@@ -5,6 +5,7 @@ date: 2011-04-15 02:16
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 Here are some codes for RedBox that give you one free rental for every card you can use:
 <pre><code><ul>

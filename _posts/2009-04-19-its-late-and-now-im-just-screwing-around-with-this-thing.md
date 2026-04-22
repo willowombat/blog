@@ -5,5 +5,6 @@ date: 2009-04-19 02:13
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 ok I'm going to bed now, very tired.

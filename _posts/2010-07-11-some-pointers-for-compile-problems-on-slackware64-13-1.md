@@ -5,6 +5,7 @@ date: 2010-07-11 23:38
 author: woh3
 comments: true
 categories: [Life]
+tags: life linux art math
 ---
 As many of you know I run slackware64 13.1 on my computer, I recently converted my system to multi-lib via alienbobs tutorial which I highly recommend <a>here</a>.
 Many people have been running into compile problems with some of the build scripts that can be found at <a href="http://slackbuilds.org/">slackbuilds.org</a>, particularly for the 64-bit version of the software, even when people add the switch:

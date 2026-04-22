@@ -5,6 +5,7 @@ date: 2013-05-12 21:49
 author: woh3
 comments: true
 categories: [Life]
+tags: books life art math
 ---
 I just finished reading a very interesting article about how employers use credit reports to discriminate against job applicants here "<a href="http://www.nytimes.com/2013/05/12/business/employers-pull-applicants-credit-reports.html">The Long Shadow of Bad Credit in a Job Search</a>", which was very eye opening.
 

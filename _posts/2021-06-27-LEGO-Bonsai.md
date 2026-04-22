@@ -3,6 +3,7 @@ layout: post
 title:  "LEGO Bonsai Weekend Project"
 date:   2021-06-27 16:48:44 -0800
 categories: Life
+tags: life lego
 ---
 
 Had to spend some time this weekend doing some work, but once I get free time this is going to be my weekend project. 

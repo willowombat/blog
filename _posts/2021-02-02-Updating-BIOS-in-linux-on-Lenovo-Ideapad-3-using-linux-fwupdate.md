@@ -3,6 +3,7 @@ layout: post
 title:  "Updating BIOS in linux on Lenovo ideapad 3 using fwupdate"
 date:   2021-02-02 15:48:44 -0800
 categories: Linux
+tags: technology linux life
 ---
 This post contains the instructions for updating the bios on a lenovo ideapad 3 using only linux and the tool 'fwupdate' which is available in Ubuntu, Fedora/RHEL and Debian.
 I had quite a difficult time finding an image source but after weeks of trying I finally found this page...<a href="https://support.lenovo.com/pa/en/downloads/ds540232 ">https://support.lenovo.com/pa/en/downloads/ds540232 </a>that has the files 

@@ -3,6 +3,7 @@ layout: post
 title:  "Chess Test"
 date:   2020-12-08 16:30:44 -0800
 categories: chess
+tags: chess gaming math
 ---
 
 **This is a test of the Chess game viewer.**

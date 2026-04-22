@@ -5,6 +5,7 @@ date: 2008-03-29 22:50
 author: woh3
 comments: true
 categories: [Uncategorized]
+tags: math
 ---
 It was just beautiful out at Lake Mead this morning, nice and cool, fresh air, relaxing pace, people were even friendly.Here are some pics of the hike
 

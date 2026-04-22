@@ -5,6 +5,7 @@ date: 2010-02-14 00:32
 author: woh3
 comments: true
 categories: [Life]
+tags: vegan life
 ---
 This is my favorite dog ever, Courtney:
 

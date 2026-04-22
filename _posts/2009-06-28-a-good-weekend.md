@@ -5,6 +5,7 @@ date: 2009-06-28 20:19
 author: woh3
 comments: true
 categories: [Life]
+tags: art life math linux books
 ---
 For once in a time that is longer than I can remember, I finally had a good relaxing weekend. I went to Friday night Go Club, of which I am president, and run the website at <a href="http://lvgoclub.org">LVGOCLUB.ORG</a> and was worried, but it turned out to be a really nice time. I went home, got some good sleep, and then met several friends and co-workers for sushi. I saw some very good movies, one of which was an unusually insiteful film called "Hard Pill" which was very entertaining and made an interesting point. Also a nice little horror movie that is a gestalt of john carpenters "The Thing", several zombie movies and BioHazard, called "<a href="http://www.imdb.com/title/tt1031280/">Splinter</a>" which I thought was very good. I also saw a good sci-fi movie called "<a href="http://www.imdb.com/title/tt0462465/">Outlander</a>" which is billed as Predator Versus Beowulf, and it really delivered on that promise, it was well worth watching. I am currently reading <a href="http://www.amazon.com/Swarm-Novel-Frank-Schatzing/dp/0060813261">The Swarm</a> <span>by <a href="http://www.amazon.com/exec/obidos/search-handle-url/ref=ntt_athr_dp_sr_1?%5Fencoding=UTF8&amp;search-type=ss&amp;index=books&amp;field-author=Frank%20Schatzing">Frank Schatzing</a></span>
 

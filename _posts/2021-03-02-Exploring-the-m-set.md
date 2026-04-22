@@ -3,6 +3,7 @@ layout: post
 title:  "Exploring the M-set"
 date:   2021-03-01 12:48:44 -0800
 categories: xxxx
+tags: fractal art math
 ---
 Lately I have been exploring the M-set in search of a configuration known as the 22-legged ant. No luck so far but I have found some interesting scenery.<br>
 This one reminds me of Dragons:<br>

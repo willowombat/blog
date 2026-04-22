@@ -5,6 +5,7 @@ date: 2009-12-25 02:20
 author: woh3
 comments: true
 categories: [Life]
+tags: life art
 ---
 I hope everyone has a wonderful Christmas, and that everyone takes this rare opportunity to embrace what Christmas is really about. I know it's been tough lately for everyone, but I think that will only make us stronger as families and as a nation. Always remember, when you have a pure heart and a clear mind, nothing can defeat you.
 

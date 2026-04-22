@@ -5,6 +5,7 @@ date: 2012-09-03 10:03
 author: woh3
 comments: true
 categories: [Hawai'i, Life, Oahu, Soccer, Soccer]
+tags: hawaii art chess gaming life math
 ---
 I have become a huge Soccer fan lately, and just saw the great game today between San Jose Earthquakes and Chivas USA. Great game, and I noticed one of the better players of the Quakes was <a href="http://en.wikipedia.org/wiki/Chris_Wondolowski" target="_blank">Chris Wondolowski</a> who is an excellent player, but one of the things that struck me about him, and maybe this is just me, but I thought he had an uncanny similarity in appearance to the 80's gay porn superstar <a href="http://www.amazon.com/Wonder-Bread-Ecstasy-Death-Stefano/dp/1555833837" target="_blank">Joey Stefano</a>.
 

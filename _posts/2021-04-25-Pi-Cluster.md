@@ -3,6 +3,7 @@ layout: post
 title:  "Raspberry Pi Cluster"
 date:   2021-04-25 16:48:44 -0800
 categories: Cluster
+tags: technology life art math
 ---
 
 It has begun!! I have started assembling my first Raspberry Pi 4 Cluster. More updates to come. 

@@ -5,6 +5,7 @@ date: 2012-06-28 07:22
 author: woh3
 comments: true
 categories: [Fun, Life, Linux, Slackware]
+tags: technology art life math linux
 ---
 Well, I got my <a href="http://www.raspberrypi.org/">Raspberry Pi</a> in the mail today (after ordering it nearly six months ago from Element14), and immediately had to buy and SDCard and a power supply for it.
 

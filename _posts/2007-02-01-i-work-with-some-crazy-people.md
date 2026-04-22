@@ -5,6 +5,7 @@ date: 2007-02-01 03:35
 author: woh3
 comments: true
 categories: [Uncategorized]
+tags: math
 ---
 Still more pictures of the crazy people I work with, it's hard to believe they're mormons;
 

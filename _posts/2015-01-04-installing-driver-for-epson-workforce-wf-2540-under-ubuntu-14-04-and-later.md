@@ -5,6 +5,7 @@ date: 2015-01-04 16:35
 author: woh3
 comments: true
 categories: [Linux, Ubuntu]
+tags: linux art life
 ---
 The Epson WF-2540 is a great little printer and not very difficult to setup under Ubuntu 14.04 and later. It doesn't work straight out of the box, if you use Ubuntu's Add Printer Dialogue it suggests Generic Drivers that seem to setup fine, but do not work when it comes to printing test pages (in fact, in one iteration of my efforts the test page came out with a message "<em>if you can read this you are using the wrong driver</em>" ?!?!). 
 So, it turns out Epson actually has a Linux Driver that they supply to you, which can be freely downloaded from their website. But before that driver will work, you will need <strong>LPR</strong> installed on your system:

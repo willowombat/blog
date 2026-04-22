@@ -5,6 +5,7 @@ date: 2008-12-18 01:59
 author: woh3
 comments: true
 categories: [Life]
+tags: life math
 ---
 This is so cool, I've been here 20 years and never seen it snow this hard, we expect up to ten inches in the surrounding areas by tomorrow, here is a pic of my friend Jared and the snowman he made with LAS VEGAS SNOW baby!
 

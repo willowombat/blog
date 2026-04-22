@@ -5,6 +5,7 @@ date: 2010-01-31 19:52
 author: woh3
 comments: true
 categories: [Life]
+tags: chess gaming life math
 ---
 I competed yesterday in a Magic the Gathering Worldwake pre-release tournament here in Las Vegas at <a title="Little Shop of Magic" href="http://www.shopofmagic.com/">The Little Shop of Magic</a>.
 

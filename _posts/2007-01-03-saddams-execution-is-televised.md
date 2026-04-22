@@ -5,6 +5,7 @@ date: 2007-01-03 04:31
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 What the HELL is wrong with you people!!!!!!!!!!!
 

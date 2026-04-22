@@ -5,6 +5,7 @@ date: 2010-05-19 03:25
 author: woh3
 comments: true
 categories: [Life]
+tags: technology books life math
 ---
 At long last, I have some time for pleasure reading again. I am currently reading "Mathematicians in Love" by one of my favorite Science fiction Authors, <a href="http://www.cs.sjsu.edu/faculty/rucker/">Rudy Rucker</a>.
 

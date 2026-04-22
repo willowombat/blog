@@ -5,6 +5,7 @@ date: 2010-09-29 17:50
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 I found this quotation today, it is attributed to an unknown source. I invite you to read it, then pause, and contemplate it. I think it is a thing of rare beauty and truth.
 

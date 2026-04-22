@@ -5,6 +5,7 @@ date: 2014-08-06 08:11
 author: woh3
 comments: true
 categories: [Blogroll, Fun, Life, Movie Review]
+tags: life
 ---
 Well, in previous post I mentioned an Evil Dead TV series, it seems this is a semi-hoax, or at least Bruce Campbell is denying any knowledge of it. As exciting as this seems, I would hope much more for a "<a href="http://en.wikipedia.org/wiki/Phantasm_(film)">Phantasm</a>" tv-series, Evil 
 Dead has pretty much played itself out in terms of plot, and would just wind up being a clone of "Supernatural", but I think a Phantasm franchise could be a new kind of horror/scifi serial, especially if they keep "The Silver Ball".

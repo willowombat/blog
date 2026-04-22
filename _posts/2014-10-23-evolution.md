@@ -5,6 +5,7 @@ date: 2014-10-23 08:14
 author: woh3
 comments: true
 categories: [Life]
+tags: life art
 ---
 Recently, I have begun to feel a change, hard to describe precisely, but it feels like the tumblers in an unknown lock have moved into place, and is opening, or maybe the better word is unfolding.
 

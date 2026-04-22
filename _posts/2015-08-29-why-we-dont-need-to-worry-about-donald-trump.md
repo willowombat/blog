@@ -5,6 +5,7 @@ date: 2015-08-29 16:57
 author: woh3
 comments: true
 categories: [Fun, Life, Personal]
+tags: chess gaming life art
 ---
 Trump will never be elected. I hear about it in my workplace, and on the radio and in the news, and perhaps deep down Democrats feel a cold twinge of fear at the notion that the Tea Party along with Republicans might actually be willing to wreck our government by electing Trump as punishment for our having elected Obama, but fear not, this is an empty threat, because:
 <ol>

@@ -3,6 +3,7 @@ layout: post
 title:  "Chess Game No Blunders"
 date:   2021-01-01 16:30:44 -0800
 categories: chess
+tags: chess gaming
 ---
 
 **I was pleased with this game, the analysis engine said I only had one mistake and 0 blunders. Woot Woot!!**

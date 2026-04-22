@@ -3,6 +3,7 @@ layout: post
 title:  "Can't wait to start reading this one!"
 date:   2021-01-13 15:48:44 -0800
 categories: Star Wars
+tags: books art
 ---
 
 [Light of the Jedi: High Republic Book 1](https://www.amazon.com/Star-Wars-Light-Jedi-Republic/dp/0593157710/ref=sr_1_1?dchild=1&keywords=light+of+the+jedi&link_code=qs&qid=1610579914&sourceid=Mozilla-search&sr=8-1&tag=mozilla-20)

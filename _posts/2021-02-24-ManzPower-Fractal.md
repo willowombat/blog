@@ -3,6 +3,7 @@ layout: post
 title:  "Z-Power Mandelbrot"
 date:   2021-02-24 16:48:44 -0800
 categories: Math
+tags: fractal art math
 ---
 Hey guys guess what?? Another Fractal!! I really like this one.<br clear="all"><br clear="all">
 <img src="{{ site.baseurl }}/images/ManZPower.png" width="900" height="675" alt="">

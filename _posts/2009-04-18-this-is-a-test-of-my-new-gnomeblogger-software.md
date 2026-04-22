@@ -5,6 +5,7 @@ date: 2009-04-18 22:53
 author: woh3
 comments: true
 categories: [Life]
+tags: life linux math
 ---
 This is a test of my new software that lets me publish to my blog via my desktop. If you can read this...it works! if not, then lamentation and dismay. I can also add pictures, lets see how well that works...
 

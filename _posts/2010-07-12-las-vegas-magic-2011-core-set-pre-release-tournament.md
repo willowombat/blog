@@ -5,6 +5,7 @@ date: 2010-07-12 00:18
 author: woh3
 comments: true
 categories: [Life]
+tags: chess life math
 ---
 These pics were taken at The Little Shop of Magic in Las Vegas Nevada on July 10 2010 for the Magic the Gathering 2011 core set pre-release tournament.
 [caption id="attachment_422" align="alignnone" width="225" caption="Bob giving the thumbs-up as we wait in the crowd outside"]<a href="http://woh3blog.files.wordpress.com/2011/06/bob1.jpeg"><img src="http://woh3blog.files.wordpress.com/2011/06/bob1.jpeg?w=225" alt="Bob giving the thumbs-up as we wait in the crowd outside" title="bob" width="225" height="300" class="size-medium wp-image-422" /></a>[/caption]

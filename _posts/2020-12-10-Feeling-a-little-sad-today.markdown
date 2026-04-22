@@ -3,6 +3,7 @@ layout: post
 title:  "Feeling a little sad today."
 date:   2020-12-10 05:48:44 -0800
 categories: life
+tags: life
 ---
 
 I had to terminate an employee for ths first time today. It was difficult,mainly because I like him and identified

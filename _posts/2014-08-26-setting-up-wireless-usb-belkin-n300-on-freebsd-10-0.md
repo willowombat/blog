@@ -5,6 +5,7 @@ date: 2014-08-26 19:46
 author: woh3
 comments: true
 categories: [FreeBSD]
+tags: technology linux
 ---
 Well, this was an interesting experience, and eventually someone on irc channel #freebsd pointed out to me that the wired connection was taking dominance over my wireless connection, so I commented out the eth0 (fxp0) entry in my /etc/rc.conf, it, when it rebooted, it was using only the wireless. :-)
 

@@ -5,6 +5,7 @@ date: 2010-01-06 06:07
 author: woh3
 comments: true
 categories: [Life]
+tags: technology life art math
 ---
 Well, many people have resolutions for the new year, and I'm no different. When I quit smoking I gained a lot of weight, so now I'm going on a diet, don't plan to stop until I reach 200, which is 90 lbs away, at my best rate I have lost 5 lbs per week, so it should take me 18 weeks,  which, if everything goes according to schedule, should be in mid-May, but I'm giving myself till July. I have had a lot of addictions, and it has been a struggle to overcome many of them, and I'm throwing a few more of those out now too.
 

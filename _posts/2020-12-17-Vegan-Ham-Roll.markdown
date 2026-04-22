@@ -3,6 +3,7 @@ layout: post
 title:  "Vegan Ham Roll"
 date:   2020-12-17 15:48:44 -0800
 categories: Vegan
+tags: vegan life
 ---
 <br><br>
 <div style="text-align: center;"><img src="{{ site.baseurl }}/images/veganhamroll.png" width="380" height="380" alt=""></div><br><br>

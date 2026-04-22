@@ -5,6 +5,7 @@ date: 2009-03-08 19:48
 author: woh3
 comments: true
 categories: [Linux]
+tags: linux math
 ---
 in Amarok (1.*)
 ===&gt;Settings===&gt;Configure Amarok

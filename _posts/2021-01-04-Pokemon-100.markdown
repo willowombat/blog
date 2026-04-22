@@ -3,6 +3,7 @@ layout: post
 title:  "100% Pokemon"
 date:   2021-01-04 11:48:44 -0800
 categories: Pokemon Go
+tags: pokemon
 ---
 I caught this bad boy over the holiday weekend. Kinda useless for PVP but still cool
 

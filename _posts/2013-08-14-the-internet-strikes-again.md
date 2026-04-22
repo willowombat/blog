@@ -5,6 +5,7 @@ date: 2013-08-14 19:50
 author: woh3
 comments: true
 categories: [Life]
+tags: art chess gaming life linux vegan
 ---
 Many Linguists say that it is not Mankind's use of tools that distinguishes him from the Animals, but its use of Language that truly defines us as Human Beings. According to Linguistics Theorists, Language can control your world view, by dictating the structure and understanding of meanings in our World. Our use of language reveals a great deal about us, like what culture we come from, and even what sub-culture we come from.
 

@@ -5,6 +5,7 @@ date: 2014-02-26 17:55
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 July. San Diego. Me. Joe. So. Totally. GOING!!!
 

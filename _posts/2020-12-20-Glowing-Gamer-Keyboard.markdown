@@ -3,6 +3,7 @@ layout: post
 title:  "Cool Glowing Gamer Keyboard"
 date:   2020-12-20 15:48:44 -0800
 categories: life
+tags: chess gaming life math
 ---
 <br clear="all">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pgcd-Ic4hWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br clear="all"><br clear="all">

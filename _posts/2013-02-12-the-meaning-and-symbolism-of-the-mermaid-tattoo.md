@@ -5,6 +5,7 @@ date: 2013-02-12 19:00
 author: woh3
 comments: true
 categories: [Fun, Personal]
+tags: art math
 ---
 <strong>Warning!! This Article Contains Semi-Adult Themes and Material, Do Not Read if you are Religious, Squeamish or Prudish.</strong>
 I have contemplated getting a full sleeve tattoo, and have researched possibilities, and I recently saw this Amazing Mermaid Tattoo...

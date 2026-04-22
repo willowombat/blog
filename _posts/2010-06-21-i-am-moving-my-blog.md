@@ -5,6 +5,7 @@ date: 2010-06-21 03:46
 author: woh3
 comments: true
 categories: [Life]
+tags: books life
 ---
 Hello all,
 

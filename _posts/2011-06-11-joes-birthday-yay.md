@@ -5,6 +5,7 @@ date: 2011-06-11 01:43
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 Happy Birthday babe!!
 

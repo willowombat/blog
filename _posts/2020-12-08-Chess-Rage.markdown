@@ -3,6 +3,7 @@ layout: post
 title:  "Chess Rage"
 date:   2020-12-08 16:38:44 -0800
 categories: chess
+tags: chess gaming
 ---
 
 **I was playing in an official online rated game against someone who was rated 300 points below me. I thought I had understood the 3 move repetition rule in tournaments well.** I was ahead by a rook and the game ended with forced draw by the computer because supposedly I had violated the 3-rep rule. I was LIVID!!

@@ -3,6 +3,7 @@ layout: post
 title:  "Mathologer Video on Mandelbrot Set"
 date:   2021-03-12 16:48:44 -0800
 categories: Math
+tags: fractal art math
 ---
 I love Mathologer's videos. He has done some really great ones,including a really good one on the factorization formula for cubic polynomials. This most recent one
 about the Mandelbrot set is going to come in very handy in my exploration of the M-set. <br clear="all">

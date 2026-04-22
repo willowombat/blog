@@ -5,6 +5,7 @@ date: 2009-04-19 21:47
 author: woh3
 comments: true
 categories: [Fun, GO, Life]
+tags: chess gaming life
 ---
 It was a great meetings, a lot of strong players, we all got in good games. I still didnt get a game with Lien-Chu, but maybe next time.
 

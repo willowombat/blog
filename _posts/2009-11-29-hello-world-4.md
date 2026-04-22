@@ -5,6 +5,7 @@ date: 2009-11-29 22:21
 author: woh3
 comments: true
 categories: [Uncategorized]
+tags: technology books
 ---
 I have backed up my old domain database and have successfully moved all the data here. Wordpress certainly made it easy. If any of you ever actually follow my blog, then re-bookmark this site,  this is where it will be from now on. Unless of course I get another crazy notion of all the cool things I can do with my own domain.  Just so you all know it's really me, here is another cool bug...
 

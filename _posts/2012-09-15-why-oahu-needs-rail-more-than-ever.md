@@ -5,6 +5,7 @@ date: 2012-09-15 19:53
 author: woh3
 comments: true
 categories: [Life]
+tags: art life hawaii
 ---
 Ever since I came here to Hawaii, and saw how poorly the highways are designed, how jammed the traffic gets, and how reckless some of the developments are I have started to feel like I can sympathize with some of the native people s notions of "just say no" to further development of Oahu. They have been the victims of poor public planning, Urban sprawl, and political crookery for far too long. 
 Hawaii is a world-class destination, and Honolulu a world-class city, that is forced to get by on 1950's planning and design. We are very close to the choke point where business and tourism will be at capacity, and I shudder to think of the chaos we are heading towards if sprawl is  to continue the way it has been .

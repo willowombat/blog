@@ -5,6 +5,7 @@ date: 2008-11-08 05:55
 author: woh3
 comments: true
 categories: [Uncategorized]
+tags: life art math
 ---
 I had a dream the other night...
 

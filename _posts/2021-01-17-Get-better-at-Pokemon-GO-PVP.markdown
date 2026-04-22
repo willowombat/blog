@@ -3,6 +3,7 @@ layout: post
 title:  "Get better at Pokemon GO PVP"
 date:   2021-01-17 15:48:44 -0800
 categories: Pokemon GO
+tags: art chess gaming pokemon math
 ---
 *Some tips to get better at Pokemon GO PVP*<br>
 1. study the current meta: acquaint yourself with the big players in the current meta. You can usually do this by keeping up with posts from <a href="https://gamepress.gg/pokemongo/great-league-pvp-tier-list">Gamepress</a>, <a href="https://www.pokebattler.com/">Pokebattler</a>, <a href="https://gamepress.gg/pokemongo/gobattlesim">gobattlesim</a> etc.<br>

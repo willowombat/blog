@@ -5,6 +5,7 @@ date: 2009-02-13 19:50
 author: woh3
 comments: true
 categories: [Linux, Slackware]
+tags: technology linux art
 ---
 For some reason there is a read/write permission conflict for /var/lib/mysql in a new slackware 12.2 install, which causes a "mysql has ended" error, you can remedy the error by chowning the directory. Usually to create the directory you need to run the command
 

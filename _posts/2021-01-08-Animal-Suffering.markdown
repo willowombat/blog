@@ -3,6 +3,7 @@ layout: post
 title:  "I am just too sensitive to animal suffering"
 date:   2021-01-08 09:48:44 -0800
 categories: Vegan
+tags: vegan life art
 ---
 I am Vegan, and I will remain so for the rest of my life. I haver tried watching some of the Vegan and PETA propaganda videos such as 
 Earthlings and (God Forbid) Dominion. I know these things show the brutal truth about slaughter houses but I am just not able to 

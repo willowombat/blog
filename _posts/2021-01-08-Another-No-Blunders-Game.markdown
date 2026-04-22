@@ -3,6 +3,7 @@ layout: post
 title:  "Another Chess Game No Blunders"
 date:   2021-01-08 16:30:44 -0800
 categories: chess
+tags: chess gaming
 ---
 
 **I used to think I was pretty good at chess, but now that I am getting back into it I am just happy to have a game

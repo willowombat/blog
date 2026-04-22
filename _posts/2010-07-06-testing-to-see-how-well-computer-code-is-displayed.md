@@ -5,6 +5,7 @@ date: 2010-07-06 03:39
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 this is ordinary text
 <pre><code>

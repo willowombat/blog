@@ -3,6 +3,7 @@ layout: post
 title:  "Something Wicked This Way Comes"
 date:   2021-06-29 16:48:44 -0800
 categories: Life
+tags: nature life
 ---
 I never want to be an alarmist, but something very strange is going on with birds everywhere right now.
 

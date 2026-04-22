@@ -3,6 +3,7 @@ layout: post
 title:  "Fusing my interests"
 date:   2021-02-16 09:48:44 -0800
 categories: Math
+tags: anime fractal art math
 ---
 Now my interests are blending together. I have made the Hanafuda Crane into a Mandelbrot Fractal. I love how beautiful the card is. 
 Here is the fractal:<br><br>

@@ -5,6 +5,7 @@ date: 2009-12-08 02:26
 author: woh3
 comments: true
 categories: [Life]
+tags: books life math
 ---
 The power is off right now, on a cold rainy night in las vegas, I am reading "Germinal" by Emile Zola, and it's actually nice, although I can still contact the good old www by my phone, and just to prove it, here is a photo I took while exploring last week, its of a solitary building, I took its picture because it's solitary "cubeness" struck me as interesting
 --woh3

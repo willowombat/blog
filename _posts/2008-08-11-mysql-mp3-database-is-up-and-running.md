@@ -5,6 +5,7 @@ date: 2008-08-11 03:42
 author: woh3
 comments: true
 categories: [Uncategorized]
+tags: technology books math
 ---
 It took a lot of work, a lot or reading and I lost a whole weekend to writing and editing code and compiling source, but it was all well worth it. I now have all my mp3 collection stored into a mysql database, that is php enabled, so friends of mine who have the password can login, browse, and download any or all of my collection. It looks so sweet. <a title="php" href="http://www.php.net/">PHP</a> and <a title="mysql" href="http://www.mysql.com/">MySQL</a>, two great tastes that taste great together.
 

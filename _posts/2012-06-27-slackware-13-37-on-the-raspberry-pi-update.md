@@ -5,6 +5,7 @@ date: 2012-06-27 08:22
 author: woh3
 comments: true
 categories: [Life]
+tags: technology art life math linux
 ---
 <a href="http://woh3blog.files.wordpress.com/2012/06/bob-dobbs.jpg"><img class="alignleft size-medium wp-image-703" title="bob-dobbs" src="http://woh3blog.files.wordpress.com/2012/06/bob-dobbs.jpg?w=201" alt="" width="201" height="300" /></a><a href="http://woh3blog.files.wordpress.com/2012/06/r-pi.jpeg"><img class="alignleft size-full wp-image-705" title="r-pi" src="http://woh3blog.files.wordpress.com/2012/06/r-pi.jpeg" alt="" width="238" height="212" /></a>
 

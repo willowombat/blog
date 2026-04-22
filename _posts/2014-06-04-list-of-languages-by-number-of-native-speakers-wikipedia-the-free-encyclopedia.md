@@ -5,6 +5,7 @@ date: 2014-06-04 09:45
 author: woh3
 comments: true
 categories: [Life]
+tags: life art
 ---
 <a href="http://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers">List of languages by number of native speakers - Wikipedia, the free encyclopedia</a>.
 

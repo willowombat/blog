@@ -3,6 +3,7 @@ layout: post
 title:  "Merry Christmas Everyone!"
 date:   2020-12-25 15:48:44 -0800
 categories: Life
+tags: gaming life
 ---
 
 

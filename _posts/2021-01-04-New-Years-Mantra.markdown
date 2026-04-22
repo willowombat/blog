@@ -3,6 +3,7 @@ layout: post
 title:  "My mantra for the New Year"
 date:   2021-01-04 10:48:44 -0800
 categories: life
+tags: philosophy life
 ---
 2020 was quite an ordeal. I know that we are not completely out of the woods yet, but I am reminded of the word of Kilgore Trout from the novel Timequake by Kurt Vonnegut. <br>
  

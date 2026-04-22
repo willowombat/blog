@@ -5,6 +5,7 @@ date: 2012-01-02 07:24
 author: woh3
 comments: true
 categories: [Life]
+tags: nature life math
 ---
 These are some pictures of the view from my dining room window...
 <a href="http://woh3blog.files.wordpress.com/2012/01/dscn1024.jpg"><img src="http://woh3blog.files.wordpress.com/2012/01/dscn1024.jpg" alt="" title="DSCN1024" width="640" height="480" class="alignleft size-full wp-image-636" /></a>

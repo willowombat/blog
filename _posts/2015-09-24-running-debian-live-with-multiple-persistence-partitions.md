@@ -5,6 +5,7 @@ date: 2015-09-24 01:19
 author: woh3
 comments: true
 categories: [Debian, Fun, Life, Linux, Privacy, Security]
+tags: linux art life
 ---
 So I am now running a USB Drive with Debian-Live 8.2.0 on it, and it is pretty darn cool. I am running it with Persistence, which allows me to save files and information between reboots, so my preferences and changes to the system actually Persist over time.
 

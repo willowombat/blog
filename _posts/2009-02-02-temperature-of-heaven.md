@@ -5,6 +5,7 @@ date: 2009-02-02 23:14
 author: woh3
 comments: true
 categories: [Uncategorized]
+tags: art
 ---
 The temperature of Heaven can be rather accurately computed.  Our authority is Isaiah 30:26, "Moreover, the light of the Moon shall be as the light of the Sun and the light of the Sun shall be sevenfold, as the light of seven days."  Thus Heaven receives from the Moon as much radiation as we do from the Sun, and in addition 7*7 (49) times as much as the Earth does from the Sun, or 50 times in all.  The light we receive from the Moon is one 1/10,000 of the light we receive from the Sun, so we can ignore that ... The radiation falling on Heaven will
 heat it to the point where the heat lost by radiation is just equal to

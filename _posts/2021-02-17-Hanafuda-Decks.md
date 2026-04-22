@@ -3,6 +3,7 @@ layout: post
 title:  "Hanafuda Decks"
 date:   2021-02-17 16:48:44 -0800
 categories: Hanafuda
+tags: anime hawaii
 ---
 My decks arrived. One nice set of original Hanafuda cards and a Hawaiian Style Koi-Koi deck. I have been teaching
 Joe and so far he really likes it. 

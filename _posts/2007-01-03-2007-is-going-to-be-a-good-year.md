@@ -5,6 +5,7 @@ date: 2007-01-03 04:28
 author: woh3
 comments: true
 categories: [Uncategorized]
+tags: art chess gaming life math books
 ---
 Well, New Years was awesome out here in vegas. I gave up smoking for my resolution, which has been hard, even with the patch. Mostly because I like to spend time at the computer, reading, writing, playing games, listening to music, and I love to smoke when doing those things, so it's only hard when I'm at the compy. Maybe I should cut down on computer time for a while. I housesat for Linda and Hal, taking care of their three dogs, three cats, and one fish. Still enjoying my job, people are crazy there. We went to Hofbrau House to party, and my boss Harry had to get spanked for spilling his beer it was hilarious
 

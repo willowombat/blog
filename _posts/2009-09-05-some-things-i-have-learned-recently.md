@@ -5,6 +5,7 @@ date: 2009-09-05 21:21
 author: woh3
 comments: true
 categories: [Life]
+tags: life art math
 ---
 1. Never trust crying women or limping dogs.
 

@@ -5,6 +5,7 @@ date: 2012-04-30 04:34
 author: woh3
 comments: true
 categories: [Hawai'i, Life, Monorail, Oahu, Oahu Monorail]
+tags: hawaii art philosophy life math books
 ---
 I am a huge fan of the Dalai Lama. I read an excellent biography on him when I was a teenager and was hooked. I was distressed when I found out that he was here on Oahu, had been for two days already, and would only be here on more day. It had not been widely advertised, it drove me crazy that I hadn't heard about it, and it was worse when I found I could not get into the last day lecture. 
 I had to watch bits and pieces of his visit on the local news. When I first came here to Oahu I felt I had been given a new lease on life, Hawai'i is a wonderful place, with wonderful people. I came here to work on the Monorail project, which will start in Kapolie and run all the way into Town, and I was really shocked to find when I got here that there was opposition to the project. 

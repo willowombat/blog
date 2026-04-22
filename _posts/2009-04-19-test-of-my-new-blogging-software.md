@@ -5,5 +5,6 @@ date: 2009-04-19 00:17
 author: woh3
 comments: true
 categories: [Life]
+tags: life
 ---
 Supposedly this software will let me post to my blog from my desktop...we'll see about that

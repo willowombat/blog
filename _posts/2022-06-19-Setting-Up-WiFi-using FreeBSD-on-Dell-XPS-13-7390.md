@@ -3,6 +3,7 @@ layout: post
 title:  "Setting up Wi-FI using FreeBSD on Dell XPS 13 7390"
 date:   2022-06-19 06:48:44 -0800
 categories: FreeBSD
+tags: technology linux art
 ---
 
 So I recently install GhostBSD on my Dell XPS 13 7390 and had quite an ordeal setting up wifi. 

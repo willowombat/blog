@@ -5,6 +5,7 @@ date: 2009-02-08 00:20
 author: woh3
 comments: true
 categories: [Fun, Life, Work]
+tags: life
 ---
 So we had a Superbowl Betting Pool going on at my work, and one of our funniest but irritating co-workers won the $500 prize. The only problem was he was so obnoxious about his winning, and wouldn't stop mocking everyone...that we finally paid him...in NICKELS!
 <p style="text-align:center;"></p>
