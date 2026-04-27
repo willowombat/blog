@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I really hate this"
-date:   2026-04-27 11:30:44 -0800
+date:   2026-04-27 01:30:44 -0800
 categories: chess
 tags: ["chess", "A.I."]
 ---
