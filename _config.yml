@@ -4,6 +4,8 @@ brief-intro: Personal journal — life, fractals, chess, mathematics & more
 baseurl: "/blog"
 url: "https://willowombat.github.io"
 
+future: true
+
 permalink: /:categories/:year/:month/:day/:title/
 
 # other links
