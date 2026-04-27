@@ -7,7 +7,7 @@ tags: ["chess", "A.I."]
 ---
 
 **I really hate it when I play a really tough chess game, and fight my way out of a bad position to win, and then the computer analyses the game and concludes we were both morons**
-
+<!--more-->
 <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
 <script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
 <script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
