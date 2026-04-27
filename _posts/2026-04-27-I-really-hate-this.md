@@ -3,10 +3,16 @@ layout: post
 title:  "I really hate this"
 date:   2026-04-27 11:30:44 -0800
 categories: chess
+tags: chess A.I.
 ---
 
 **I really hate it when I play a really tough chess game, and fight my way out of a bad position to win, and then the computer analyses the game and concludes we were both morons**
 
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+
+<div class="cbreplay">
 [Event "Live Chess"]
 [Site "Chess.com"]
 [Date "2026.04.27"]
@@ -73,3 +79,4 @@ Qxb6 {[%clk 0:01:45.8][%timestamp 67]} 42... Rh2+ {[%clk 0:02:05.8][%timestamp
 {[%clk 0:01:58.5][%timestamp 60]} 45. Re1 {[%clk 0:01:16.3][%timestamp 213]}
 45... Bd4+ {[%clk 0:01:54][%timestamp 45]} 46. Kf1 {[%clk 0:01:13.8][%timestamp
 25]} 46... Qf4+ {[%clk 0:01:50.6][%timestamp 34]} 0-1
+</div>
