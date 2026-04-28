@@ -8,4 +8,4 @@ tags: ["personal"]
 
 Sometimes it is hard for me to understand how easy it is to forget these simple truths.
 
-https://www.youtube.com/embed/\_hrD\_NFZmf8?si=6ZUDITmb9x18hhdQ
+<div class="video-container" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1rem 0;"><iframe src="https://www.youtube.com/embed/_hrD_NFZmf8" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe></div>
