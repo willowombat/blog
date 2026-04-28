@@ -128,7 +128,6 @@
     margin-top: 3px;
   }
 
-  /* Images section */
   .section-rule {
     border: none;
     border-top: 1px solid var(--rule);
@@ -201,7 +200,31 @@
 
   .add-btn:hover { color: var(--accent); }
 
-  /* Actions */
+  /* Chess section */
+  .chess-section {
+    display: none;
+    margin-top: 0.5rem;
+  }
+
+  .chess-section.visible {
+    display: block;
+  }
+
+  .chess-notice {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--accent-soft);
+    border-left: 2px solid var(--accent-soft);
+    padding-left: 10px;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+
+  #pgn {
+    min-height: 280px;
+    font-size: 12px;
+  }
+
   .actions {
     display: flex;
     gap: 12px;
@@ -251,7 +274,6 @@
 
   .copy-confirm.visible { display: block; }
 
-  /* Output */
   .output-wrap {
     margin-top: 2rem;
     display: none;
@@ -307,7 +329,7 @@
 
   <header>
     <h1>willowombat / post creator</h1>
-    <span>Jekyll · Tactile Theme</span>
+    <span>Jekyll · Gaohaoyang Theme</span>
   </header>
 
   <div class="form-grid">
@@ -321,7 +343,7 @@
     </div>
     <div class="field">
       <label>Category</label>
-      <select id="category">
+      <select id="category" onchange="handleCategoryChange()">
         <option value="">— none —</option>
         <option value="chess">chess</option>
         <option value="code">code</option>
@@ -338,8 +360,29 @@
       <input type="text" id="tags" placeholder="tag1, tag2">
     </div>
     <div class="field full">
-      <label>Body</label>
-      <textarea id="body" placeholder="Write your post here. Use standard Markdown — **bold**, _italic_, `code`, ```code blocks```, etc."></textarea>
+      <label>Intro / Body</label>
+      <textarea id="body" placeholder="Write your post intro or body here. Use standard Markdown — **bold**, _italic_, `code`, etc."></textarea>
+    </div>
+  </div>
+
+  <!-- Chess-specific section -->
+  <div class="chess-section" id="chessSection">
+    <hr class="section-rule">
+    <div class="section-label">Chess Game (PGN)</div>
+    <div class="chess-notice">
+      Paste your PGN below. Remove clock/timestamp annotations ({[%clk ...]}) — plain move notation only.<br>
+      The board widget, scripts, and 4-blank-line excerpt break will be added automatically.
+    </div>
+    <div class="field full">
+      <label>PGN</label>
+      <textarea id="pgn" placeholder="[Event &quot;Live Chess&quot;]
+[Site &quot;Chess.com&quot;]
+[Date &quot;2026.04.27&quot;]
+[White &quot;Opponent&quot;]
+[Black &quot;willowombat&quot;]
+[Result &quot;0-1&quot;]
+
+1. e4 e5 2. Nf3 Nc6 ..."></textarea>
     </div>
   </div>
 
@@ -371,12 +414,27 @@
 </div>
 
 <script>
-  // Set today's date by default
   const today = new Date();
   const yyyy = today.getFullYear();
   const mm = String(today.getMonth() + 1).padStart(2, '0');
   const dd = String(today.getDate()).padStart(2, '0');
   document.getElementById('date').value = `${yyyy}-${mm}-${dd}`;
+
+  function handleCategoryChange() {
+    const cat = document.getElementById('category').value;
+    const chessSection = document.getElementById('chessSection');
+    const tagsInput = document.getElementById('tags');
+
+    if (cat === 'chess') {
+      chessSection.classList.add('visible');
+      // Pre-fill tags with chess if empty
+      if (!tagsInput.value.trim()) {
+        tagsInput.value = 'chess';
+      }
+    } else {
+      chessSection.classList.remove('visible');
+    }
+  }
 
   function addImage(filename = '', alt = '') {
     const list = document.getElementById('images-list');
@@ -398,41 +456,58 @@
       .replace(/-+/g, '-');
   }
 
+  function stripClockAnnotations(pgn) {
+    // Remove {[%clk ...]} and {[%timestamp ...]} annotations
+    return pgn.replace(/\{[^}]*\}/g, '').replace(/\s+/g, ' ').trim();
+  }
+
   function generate() {
     const title = document.getElementById('title').value.trim();
     const date = document.getElementById('date').value;
     const category = document.getElementById('category').value;
     const tagsRaw = document.getElementById('tags').value;
-    let body = document.getElementById('body').value;
+    let body = document.getElementById('body').value.trim();
+    const isChess = category === 'chess';
+    const pgn = isChess ? document.getElementById('pgn').value.trim() : '';
 
     if (!title || !date) {
       alert('Please fill in at least a title and date.');
       return;
     }
 
+    if (isChess && !pgn) {
+      alert('Please paste your PGN for the chess post.');
+      return;
+    }
+
     const tags = tagsRaw.split(',').map(t => t.trim()).filter(Boolean);
 
     // Build front matter
-    let fm = `---\nlayout: post\ntitle: "${title}"\ndate: ${date}\n`;
-    if (category) fm += `category: ${category}\n`;
-    if (tags.length) fm += `tags: [${tags.join(', ')}]\n`;
+    let fm = `---\nlayout: post\ntitle:  "${title}"\ndate:   ${date} 08:00:00 -0800\ncategories: ${category || 'personal'}\n`;
+    if (tags.length) fm += `tags: [${tags.map(t => `"${t}"`).join(', ')}]\n`;
     fm += `---\n`;
 
-    // Build image references to insert
-    const imgEntries = document.querySelectorAll('.img-entry');
-    let imageBlock = '';
-    imgEntries.forEach(row => {
-      const fname = row.querySelector('.img-filename').value.trim();
-      const alt = row.querySelector('.img-alt').value.trim() || fname;
-      if (fname) {
-        imageBlock += `\n![${alt}]({{ site.baseurl }}/images/${fname})\n`;
-      }
-    });
+    let content = '';
 
-    // Append images at end if body doesn't already reference them
-    const fullBody = body + (imageBlock ? '\n' + imageBlock : '');
+    if (isChess) {
+      const cleanPgn = stripClockAnnotations(pgn);
+      // Bold intro text, then 4 blank lines (excerpt break), then scripts and board
+      content = `**${body || 'Insert intro text here'}**\n\n\n\n\n<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css"/>\n<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"><\/script>\n<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"><\/script>\n\n<div class="cbreplay">\n${cleanPgn}\n</div>`;
+    } else {
+      content = body;
 
-    const output = fm + '\n' + fullBody;
+      // Append images
+      const imgEntries = document.querySelectorAll('.img-entry');
+      imgEntries.forEach(row => {
+        const fname = row.querySelector('.img-filename').value.trim();
+        const alt = row.querySelector('.img-alt').value.trim() || fname;
+        if (fname) {
+          content += `\n\n![${alt}]({{ site.baseurl }}/images/${fname})`;
+        }
+      });
+    }
+
+    const output = fm + '\n' + content;
     const slug = slugify(title);
     const filename = `${date}-${slug}.md`;
 
