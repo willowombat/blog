@@ -8,35 +8,29 @@ future: true
 
 permalink: /:categories/:year/:month/:day/:title/
 
-# other links
+# Links
 github_username: willowombat
 email: no@no.com
-# twitter_username:
-# facebook_username:
-# weibo_username:
-# zhihu_username:
-# linkedIn_username:
-# dribbble_username:
 
 category_dir: category
 tag_dir: tag
 
 description_footer: Willowombat's corner of the internet.
 
-# comments — sign up at disqus.com to get your own shortname
+# Comments — sign up at disqus.com to get your own shortname
 # disqus_shortname: your_disqus_shortname
 
-# statistic analysis
+# Google Analytics
 # google_analytics_id: UA-xxxxxxxx
 
-# excerpt separator — 4 blank lines in a post = excerpt break on homepage
+# Excerpt separator — 4 blank lines in a post = excerpt break on homepage
 excerpt_separator: "\n\n\n\n"
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
