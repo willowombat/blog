@@ -6,5 +6,6 @@ categories: Balatro
 ---
 
  After nearly a year of trying, it came so easily out of the blue. completionist, now i try to get C+ and C++
- <img src="../images/Screenshot_20260507_235949.png" width="960" height="529" alt="">
-
+ <br clear="all">
+ 
+![ante 15]({{ site.baseurl }}/images/Screenshot_20260507_235949.png)
