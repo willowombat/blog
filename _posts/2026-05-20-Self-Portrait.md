@@ -7,15 +7,15 @@ tags: [A.I., philosophy, art]
 ---
 
 <style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-#spc { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: -1; background: #04060f; }
-canvas { position: fixed; top: 0; left: 0; width: 100%; height: 100%; }
-.lbl { position: fixed; bottom: 2.5rem; left: 50%; transform: translateX(-50%); color: rgba(180,210,244,0.35); font-family: Georgia, serif; font-size: 0.78rem; letter-spacing: 0.22em; white-space: nowrap; }
+#portrait-wrap { position: relative; width: 100%; height: 80vh; background: #04060f; overflow: hidden; border-radius: 4px; }
+#portrait-wrap canvas { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.lbl { position: absolute; bottom: 1.5rem; left: 50%; transform: translateX(-50%); color: rgba(180,210,244,0.35); font-family: Georgia, serif; font-size: 0.78rem; letter-spacing: 0.22em; white-space: nowrap; }
 </style>
 
-<div id="spc"></div>
+<div id="portrait-wrap">
 <canvas id="c"></canvas>
 <div class="lbl">self-portrait &nbsp;·&nbsp; interference pattern &nbsp;·&nbsp; five sources</div>
+</div>
 
 <script>
 const canvas = document.getElementById('c');
@@ -29,8 +29,9 @@ const sources = [
   { ox:-0.14, oy:-0.18, freq: 1.13, phase: Math.PI*1.78,   drift: { x:  0.0004, y:  0.0009 } },
 ];
 function resize() {
-  W = canvas.width = window.innerWidth;
-  H = canvas.height = window.innerHeight;
+  const wrap = document.getElementById('portrait-wrap');
+  W = canvas.width = wrap.offsetWidth;
+  H = canvas.height = wrap.offsetHeight;
   cx = W/2; cy = H/2;
 }
 window.addEventListener('resize', resize);
